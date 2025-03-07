@@ -48,6 +48,9 @@ PACKAGES="$PACKAGES luci-i18n-statistics-zh-cn"
 PACKAGES="$PACKAGES luci-app-ttyd"
 PACKAGES="$PACKAGES luci-app-adguardhome"
 PACKAGES="$PACKAGES luci-i18n-adguardhome-zh-cn"
+PACKAGES="$PACKAGES luci-app-openvpn-server"
+PACKAGES="$PACKAGES luci-i18n-openvpn-zh-cn"
+
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
