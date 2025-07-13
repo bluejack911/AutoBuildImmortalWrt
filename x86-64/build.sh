@@ -72,7 +72,7 @@ PACKAGES="$PACKAGES luci-i18n-nikki-zh-cn"
 #PACKAGES="$PACKAGES luci-app-partexp"
 #PACKAGES="$PACKAGES luci-i18n-partexp-zh-cn"
 # 酷猫主题 by sirpdboy 
-#PACKAGES="$PACKAGES luci-theme-kucat"
+PACKAGES="$PACKAGES luci-theme-kucat"
 # 网络测速 by sirpdboy 
 PACKAGES="$PACKAGES luci-app-netspeedtest"
 PACKAGES="$PACKAGES luci-i18n-netspeedtest-zh-cn"
